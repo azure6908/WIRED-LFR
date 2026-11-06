@@ -1,0 +1,22 @@
+Qty,Value / part,Footprint,References
+2,100nF,1206,C1 C2
+1,10uF,1206,C3
+1,100uF 16V,"Radial 5mm, 2.5mm pitch",C4
+16,White LED 3mm clear,3mm THT,D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16
+1,ESP32 DevKit V1 30-pin,"2 x 1x15 female header, rows 25.4mm apart",J2
+1,TB6612FNG module,"2 x 1x8 female header, rows 12.7mm apart",J3
+1,OLED 0.96 I2C,1x4 female header,J4
+1,Battery 2S,2-pin screw terminal 5.08mm,J5
+1,Power switch,1x2 header 2.54mm (wire to a switch),J6
+1,Motor A,2-pin screw terminal 5.08mm,J7
+1,Motor B,2-pin screw terminal 5.08mm,J8
+1,MP1584 buck 5V,"MP1584 module, wired to 4 pads",M1
+16,Photodiode 3mm,3mm THT,P1 P2 P3 P4 P5 P6 P7 P8 P9 P10 P11 P12 P13 P14 P15 P16
+1,AO3400,SOT-23,Q17
+17,100R,1206,R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R33
+16,6k8,1206,R17 R18 R19 R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R30 R31 R32
+2,100k,1206,R34 R35
+1,33k,1206,R36
+4,10k,1206,R37 R38 R39 R40
+4,Button 6x6,6x6mm tactile THT,SW1 SW2 SW3 SW4
+2,74HC4051,SOIC-16,U5 U6

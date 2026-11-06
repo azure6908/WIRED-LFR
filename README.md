@@ -57,6 +57,12 @@ Sensor *n* is on mux channel Y(n−1) for sensors 1–8 and Y(n−9) for sensors
 Sensor 1 is at the left tip of the anchor in the PCB view. Because the board mounts
 top side down, sensor 1 ends up on the robot's **right** when you look down at the robot.
 
+## Manufacturing files
+
+[`WIRED-LFR_Gerber_2026-11-06.zip`](WIRED-LFR_Gerber_2026-11-06.zip) – Gerber and drill files exported from EasyEDA
+(2 layers, 126 × 126 mm, 1.6 mm). Checked against the design netlist: all 63 nets connected, no shorts,
+144 component holes + 40 vias (0.3 mm), 4 × 3.2 mm mounting holes. Silkscreen includes "PCBWay".
+
 ## Parts
 
 See [`BOM.csv`](BOM.csv) (91 parts) and [`netlist.json`](netlist.json).
